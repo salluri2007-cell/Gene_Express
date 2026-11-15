@@ -1,7 +1,7 @@
-# ====================================================================
-# Codon Usage Based Expression Level Estimator
-# Sub-topic: Expression Level Estimator
-# ====================================================================
+
+## Codon Usage Based Expression Level Estimator
+#  Expression Level Estimator
+
 
 import math
 
