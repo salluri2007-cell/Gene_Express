@@ -2,19 +2,6 @@
 """
 CODON USAGE-BASED EXPRESSION LEVEL ESTIMATOR
 
-This program:
-1. Validates a coding DNA sequence (CDS).
-2. Counts codons and calculates Relative Synonymous Codon Usage (RSCU).
-3. Calculates reference-based relative adaptiveness weights (wi).
-4. Calculates the Codon Adaptation Index (CAI).
-5. Gives an approximate codon-adaptation category.
-
-IMPORTANT:
-CAI estimates similarity to the codon usage of a reference set of highly
-expressed genes. It does NOT directly measure mRNA or protein expression.
-Use reference frequencies from the same organism/expression host whenever
-possible.
-"""
 
 import math
 import matplotlib.pyplot as plt
