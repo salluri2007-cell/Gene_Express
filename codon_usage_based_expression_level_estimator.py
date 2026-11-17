@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-CODON USAGE-BASED EXPRESSION LEVEL ESTIMATOR
+"""CODON USAGE-BASED EXPRESSION LEVEL ESTIMATOR"""
 
 
 import math
@@ -511,4 +510,3 @@ if __name__ == "__main__":
 
     print("\nNote: These categories describe codon adaptation,")
     print("not experimentally measured gene expression.")
-"""
