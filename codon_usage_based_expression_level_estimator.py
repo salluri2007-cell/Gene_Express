@@ -511,3 +511,4 @@ if __name__ == "__main__":
 
     print("\nNote: These categories describe codon adaptation,")
     print("not experimentally measured gene expression.")
+"""
